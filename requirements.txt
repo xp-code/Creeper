@@ -1,0 +1,4 @@
+# celery relatives
+celery==4.2.1
+# if you run this on linux. can install.
+# librabbitmq==2.0.0
