@@ -25,3 +25,4 @@
 supervisord -c supervisor.ini
 ```
 或者将 supervisor.ini 加入到 supervisor 的配置目录，配置到总的管理中。
+

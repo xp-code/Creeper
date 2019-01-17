@@ -80,5 +80,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# for git commitizen
+node_modules/
+package-lock.json
+package.json
+
 # cus
 .idea/
